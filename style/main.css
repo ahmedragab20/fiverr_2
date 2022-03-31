@@ -1,0 +1,55 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+body {
+  background: #f7f7f7;
+  color: #707070;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+main {
+  padding-top: 5vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #707070;
+}
+
+.text {
+  color: #707070;
+}
+
+.headline {
+  color: #222325;
+}
+
+.text_main {
+  color: #194275;
+}
+
+.bg_main {
+  background: #194275;
+  color: #fff;
+}
+
+.bg_main:hover {
+  background: #194275;
+  color: #fff;
+}
+
+.bg_main_color_text {
+  color: #194275;
+}
+
+.logos {
+  background: url("../images/logos.svg") center -27px no-repeat;
+  background-size: 100%;
+  width: 298px;
+  height: 25px;
+  margin: 15px 0;
+}
+/*# sourceMappingURL=main.css.map */
