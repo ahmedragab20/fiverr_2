@@ -55,3 +55,7 @@ a {
   height: 25px;
   margin: 15px 0;
 }
+
+input:focus {
+  box-shadow: none !important;
+}

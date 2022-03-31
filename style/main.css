@@ -52,4 +52,9 @@ a:hover {
   height: 25px;
   margin: 15px 0;
 }
+
+input:focus {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
 /*# sourceMappingURL=main.css.map */
